@@ -1,0 +1,30 @@
+/*
+123
+456
+789
+relations find
+row n
+column n
+no relation in i,j thus initialize count variable
+*/
+
+#include <iostream>
+using namespace std;
+
+int main() {
+  int n;
+  int count = 1;
+  cin >> n;
+  int i = 1;
+
+  while (i <= n) {
+    int j = 0;
+    while (j < n) {
+      cout << count << " ";
+      count = count + 1;
+      j = j + 1;
+    }
+    cout << endl;
+    i = i + 1;
+  }
+}

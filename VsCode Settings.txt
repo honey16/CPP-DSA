@@ -1,0 +1,25 @@
+{
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "editor.fontFamily": "JetBrainsMono-Light, DinaRemasterII",
+    "terminal.integrated.localEchoStyle": "dim"
+
+    // Set the font
+    "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+    // Set the font size
+    "editor.fontSize": 13,
+    // Turn on font ligatures
+    "editor.fontLigatures": true,
+    // Set letter spacing
+    "editor.letterSpacing": 0.4,
+    // Enable smooth scrolling in the editor
+    "editor.smoothScrolling": true,
+
+
+
+},
+{
+
+    "terminal.integrated.rightClickBehavior": "copyPaste"
+}
